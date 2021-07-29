@@ -3,7 +3,7 @@
 <p>I'm Jahangir Alam, a passionate self-taught mern stack web developer and a freelance mern stack web developer from Bangladesh 😉. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.</p>
 
 
-:coffee:&emsp;Connect with me!
+:coffee:&emsp;Connect with me!</h3>
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jahangirAxisan) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jahangiraxisan/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jahangiraxisan/) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jahangiraxisan) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdjahangiralamxisan@gmail.com)
 
@@ -23,7 +23,6 @@
 #### Github Stats
 
 <!-- ![JahangirCodes's github stats](https://github-readme-stats.vercel.app/api?username=JahangirCode&count_private=true&theme=tokyonight&hide=contribs,prs) -->
-
 
 <a href="https://github.com/JahangirCode/JahangirCode">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JahangirCode&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="JahangirCode's GitHub Stats" />
